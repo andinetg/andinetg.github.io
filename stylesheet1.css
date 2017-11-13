@@ -16,4 +16,8 @@ body {
   footer {
   font-size: 12px;
   padding: 20px 0;
+  .andinet{
+    text-align: center;
+}
+
 }
