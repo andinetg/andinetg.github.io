@@ -19,5 +19,7 @@ body {
   .andinet{
     text-align: center;
 }
-
+.asg {
+    text-align: justify;
+    text-justify: inter-word;
 }
