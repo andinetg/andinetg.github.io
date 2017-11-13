@@ -3,3 +3,17 @@ body{background-color: lightblue;}
 img {
     float: right;
 }
+header {
+  padding: 20px 0;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+    footer .row {
+  display: flex;
+  align-items: center;
+}
+  footer {
+  font-size: 12px;
+  padding: 20px 0;
+}
