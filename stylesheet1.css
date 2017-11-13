@@ -6,15 +6,12 @@ img {
 header {
   padding: 20px 0;
 }
-  footer .row {
-  display: flex;
-  align-items: center;
+footer  {text-align:center;}
+ 
 }
   footer {
   font-size: 12px;
   padding: 20px 0;
-  .andinet{
-    text-align: center;
 }
 .asg {
     text-align: justify;
