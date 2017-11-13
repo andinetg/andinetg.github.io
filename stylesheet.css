@@ -12,3 +12,7 @@ div {
     padding: 25px 50px 65px;
     background-color: lightblue;
 }
+.asg {
+    text-align: justify;
+    text-justify: inter-word;
+}
