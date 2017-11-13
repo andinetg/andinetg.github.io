@@ -6,10 +6,7 @@ img {
 header {
   padding: 20px 0;
 }
-body {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 300;
-    footer .row {
+  footer .row {
   display: flex;
   align-items: center;
 }
@@ -22,4 +19,7 @@ body {
 .asg {
     text-align: justify;
     text-justify: inter-word;
+    font-family: "Times New Roman", Times, serif;
 }
+
+      
